@@ -1,3 +1,12 @@
+meu nome é Danilo estudo no colégio civico militar presidente vargas 
+moro na cidade de Bela Vista do Paraiso Paraná
+tenho 16 anos 
+minha comida preferida é lasanha 
+
+
+
+
+
 ## Hi there 👋
 
 <!--
